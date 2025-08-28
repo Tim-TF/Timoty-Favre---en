@@ -17,7 +17,8 @@ I’m particularly interested in:
 ---
 
 ## 📚 Learning Journey
-- 🎓 **Google Cybersecurity Professional Certificate** (Coursera, completed in English)  
+- 🎓 **Google Cybersecurity Professional Certificate** (Coursera, completed in English)
+- 🎓 **Cyber Security Tools Training** (Swiss cyber institute), completed in English) 
 - 🕵️ Hands-on training through **TryHackMe** (CTFs, practice labs, real-world scenarios)  
 - 📖 Continuous self-learning (articles, blogs, technical documentation — mostly in English)  
 
@@ -44,7 +45,7 @@ I’m particularly interested in:
 
 ## 🌐 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com) _(add your link)_  
-- 📧 **timoty.favre@email.com**
+- 📧 **timoty_favre@hotmail.com**
 
 ---
 
