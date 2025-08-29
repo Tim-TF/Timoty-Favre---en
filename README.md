@@ -37,6 +37,13 @@ I’m particularly interested in:
 
 ---
 
+## 💡 Additional Skills
+- Advanced use of **Microsoft Office Suite** (Excel, Word, PowerPoint, Outlook)  
+- Daily use of accounting and ERP software (e.g., Sage, Ciel, etc.)  
+- Financial data analysis and reporting
+  
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotyFavre&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotyFavre&layout=compact&theme=radical)
