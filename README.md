@@ -41,6 +41,11 @@ I’m particularly interested in:
 - Advanced use of **Microsoft Office Suite** (Excel, Word, PowerPoint, Outlook)  
 - Daily use of accounting and ERP software (e.g., Sage, Ciel, etc.)  
 - Financial data analysis and reporting
+
+## 🔄 Ongoing Learning
+- Continuously improving cybersecurity skills through labs and CTF challenges on **TryHackMe**  
+- Regularly exploring new tools, techniques, and best practices  
+- Goal: to become fully operational in a pentesting or cybersecurity role
   
 ---
 
