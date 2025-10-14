@@ -42,16 +42,12 @@ I’m particularly interested in:
 - Daily use of accounting and ERP software (e.g., Sage, Ciel, etc.)  
 - Financial data analysis and reporting
 
+
 ## 🔄 Ongoing Learning
 - Continuously improving cybersecurity skills through labs and CTF challenges on **TryHackMe**  
 - Regularly exploring new tools, techniques, and best practices  
 - Goal: to become fully operational in a pentesting or cybersecurity role
   
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotyFavre&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotyFavre&layout=compact&theme=radical)
 
 ---
 
