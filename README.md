@@ -32,7 +32,7 @@ I’m particularly interested in:
 
 - **Cybersecurity**: fundamentals, access management, basic cryptography  
 - **Pentesting**: reconnaissance, exploitation basics, solving CTF challenges  
-- **Tools**: Linux, SIEM (Splunk, Chronicle), Wireshark  
+- **Tools**: Linux, SIEM (basics), Wireshark, nmap  
 - **Languages**: Bash scripting, Python basics  
 
 ---
