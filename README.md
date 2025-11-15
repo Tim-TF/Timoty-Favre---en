@@ -9,8 +9,8 @@
 ## 🚀 Career Goal
 Leverage my analytical skills and attention to detail (developed as an accountant) to help secure systems, networks, and data.  
 I’m particularly interested in:  
-- 🔎 **Pentesting & Ethical Hacking**  
-- 🛡️ **Incident Detection & Response**  
+- 🔎 **Pentesting & Ethical Hacking**
+- 🛡️ **Improving SOC-related skills (SIEM, log analysis, detection)**   
 - 🌐 **Network Security**  
 - 🔐 **Vulnerability Assessment**  
 
@@ -46,7 +46,7 @@ I’m particularly interested in:
 ## 🔄 Ongoing Learning
 - Continuously improving cybersecurity skills through labs and CTF challenges on **TryHackMe**  
 - Regularly exploring new tools, techniques, and best practices  
-- Goal: to become fully operational in a pentesting or cybersecurity role
+- Goal: to find a position and become fully operational as a SOC Analyst, Penetration Tester, IT Security Specialist, or in any other role within the cybersecurity field
   
 
 ---
