@@ -39,7 +39,7 @@ I’m particularly interested in:
 
 ## 💡 Additional Skills
 - Advanced use of **Microsoft Office Suite** (Excel, Word, PowerPoint, Outlook)  
-- Daily use of accounting and ERP software (e.g., Sage, Ciel, etc.)  
+- Daily use of accounting and ERP software (winbiz, Cheel, etc.)  
 - Financial data analysis and reporting
 
 
