@@ -52,7 +52,7 @@ I’m particularly interested in:
 ---
 
 ## 🌐 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com) _(add your link)_  
+- 💼 [LinkedIn] www.linkedin.com/in/timoty-favre-b66ba537b
 - 📧 **timoty_favre@hotmail.com**
 
 ---
